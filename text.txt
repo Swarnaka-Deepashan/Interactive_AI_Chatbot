@@ -1,0 +1,7 @@
+<script>
+  
+  const messagesList = document.querySelector('.messages-list');
+  const messagesList = document.querySelector('.message-form');
+  const messagesList = document.querySelector('.message-input');
+
+</script>
